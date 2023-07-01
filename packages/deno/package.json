@@ -1,5 +1,8 @@
 {
     "scripts": {
         "dev": "deno run --allow-all --unstable --watch main.ts"
+    },
+    "deno": {
+        "version": "1.34.3"
     }
 }

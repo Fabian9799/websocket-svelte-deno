@@ -1,0 +1,17 @@
+{
+  "name": "websocket-svelte-deno",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "pnpm -r run dev",
+    "clean": "find ./ -name node_modules -type d -exec rm -rf {} +"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=18.0.0",
+    "pnpm": ">=8.5.0"
+  }
+}

@@ -1,3 +1,11 @@
-Start deno:
-`deno run --allow-all --unstable --watch main.ts`
-don't use --allow-all if you don't know what the code is doing
+## Prerequisites:
+
+-   Node: `^18.0.0`
+-   Pnpm: `^8.0.0`
+-   Deno: `^1.34.3` (older versions might work)
+
+## How to run:
+
+`pnpm i`
+
+`pnpm -r run dev`
